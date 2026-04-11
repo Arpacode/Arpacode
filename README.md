@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Arpan 👋<br>A student passionate about Physics, Mathematics, and Computer Science <br><br>🧠 I love solving complex problems and breaking things down logically<br>💻 Currently learning Python and diving into low-level & system concepts<br>🚀 Exploring amateur rocketry and goal to build my own flight computer<br>🎯 Interested in AI, Game Development, and Machine Learning<br><br>📌 Mastering Python (core + problem solving)<br>📌 Learning C++ & Bash <br>📌 Understanding algorithms <br>📌 Building real-world projects from scratch
+Hey, I'm Arpan 👋<br>A student passionate about Physics, Mathematics, and Computer Science <br><br>🧠 I love solving complex problems and breaking things down logically<br>💻 Currently learning Python and diving into low-level & system concepts<br>🚀 Exploring amateur rocketry and goal to build my own flight computer<br>🎯 Interested in Art, Game Development, Music and Machine Learning<br><br>📌 Mastering Python (core + problem solving)<br>📌 Learning C++ & Bash <br>📌 Understanding algorithms <br>📌 Building real-world projects from scratch
 
 
 ## 🌐 Socials:
