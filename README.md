@@ -10,5 +10,7 @@ Hey, I'm Arpan 👋<br>A student passionate about Physics, Mathematics, and Comp
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=✌+I'm+Still+Learning&center=true&size=30&color=00F7FF&vCenter=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Still+Learning+✌&center=true&size=30&vCenter=true&width=500&height=50&color=FF0000,FFA500,FFFF00,00FF00,00FFFF,0000FF,800080">
 </p>
+
+<--Readme by ArpanMurmu-->
