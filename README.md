@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Arpan.M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Indie%20Developer%20%E2%80%A2%20Malware%20Analyst%20%E2%80%A2%20Red%20Team%20Student%20%E2%80%A2%20STEM%20Student&descAlignY=60"/>
+</p>
+
+
 # 💫 About Me:
 Hey, I'm Arpan 👋<br>A student passionate about Physics, Mathematics, and Computer Science <br><br>■ I love solving complex problems and breaking things down logically<br>□ Currently learning Python and diving into low-level & system concepts<br>■ Exploring amateur rocketry and goal to build my own flight computer<br>□ Interested in Digital Art, Game Development, Music and Machine Learning<br><br>● Mastering Python (core + problem solving)<br>● Learning C Languages & Bash <br>● Understanding algorithms <br>● Building real-world projects from scratch<br>☆ Learning Web Security & Penetration Testing (Red Team) with a focus on ethical hacking and secure coding | Labs: Hack The Box (HTB), TryHackMe, PortSwigger Web Security Academy, Cisco Skills for All <br> ♡ Studying Reverse Engineering, Malware Analysis & Rootkit Internals in Ethical and Controlled Lab Environments
 
@@ -20,4 +25,6 @@ I would really appreciate any constructive feedback, suggestions, or contributio
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Still+Learning+✌&center=true&size=30&vCenter=true&width=500&height=50&color=FF0000,FFA500,FFFF00,00FF00,00FFFF,0000FF,800080">
 </p>
 
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+</p>
