@@ -20,6 +20,8 @@ I would really appreciate any constructive feedback, suggestions, or contributio
   <img src="https://raw.githubusercontent.com/Arpacode/Arpacode/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
 
+##I HATE VIBE CODERS 🙂😤
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Still+Learning+✌&center=true&size=30&vCenter=true&width=500&height=50&color=FF0000,FFA500,FFFF00,00FF00,00FFFF,0000FF,800080">
